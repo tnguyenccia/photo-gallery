@@ -17,6 +17,5 @@ export class PhotoService {
       quality: 100
     });
 
-    
   }
 }
